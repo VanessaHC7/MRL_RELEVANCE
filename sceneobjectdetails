@@ -3,7 +3,7 @@ Milk: (-0.3,0.7,0)
 Banana: (0,0.7,0)
 Cereal:  (0.3,0.7,0)
 
-Objec Affordances
+Object Affordances
 Milk: Neutral grasp (61-120deg between palm's normal vector and the z axis of the world coordinate)
 Banana: Top-down grasp (0-60deg between palm's normal vector and the z axis of the world coordinate)
 Cereal: Neutral or top-down grasp
