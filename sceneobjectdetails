@@ -1,4 +1,4 @@
-Object Locations (in meters)
+Object Locations in world coordinate system (in meters)
 Milk: (-0.3,0.7,0)
 Banana: (0,0.7,0)
 Cereal:  (0.3,0.7,0)
